@@ -19,9 +19,9 @@ figure{
     border-color: black;
     border-width: 5px;
     border-style: dotted;
-    text-align: center;*/
-/*-moz-transform: scale(0.5);*/
-}
+    text-align: center;
+
+}*/
 #frase1 {
     background-color: rgb(195, 173, 127); /* Color de fondo cyan */
     border-radius: 15px; /* Bordes redondeados */
